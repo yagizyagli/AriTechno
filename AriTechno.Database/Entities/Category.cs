@@ -7,5 +7,7 @@
         public string Adi { get; set; }
 
         public string Aciklama { get; set; }
+
+
     }
 }
