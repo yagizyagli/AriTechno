@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="AriTechno.Access/AriTechno.Access.csproj" Id="f5fcb34f-882f-40e9-bfe5-16ce3696f5fa" />
+  <Project Path="AriTechno.Database/AriTechno.Database.csproj" Id="943c49ab-ba47-43b4-9201-2a0155fb4685" />
+  <Project Path="AriTechno.Service/AriTechno.Service.csproj" Id="34554af2-cdde-4e96-b15a-e64a138a859b" />
   <Project Path="AriTechno.Web/AriTechno.Web.csproj" />
 </Solution>
